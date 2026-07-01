@@ -1,2 +1,3 @@
 /lg-venv
 .env
+__pycache__/*
